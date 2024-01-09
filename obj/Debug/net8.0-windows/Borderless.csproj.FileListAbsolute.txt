@@ -1,0 +1,17 @@
+C:\Users\Alex\Desktop\Maya\Borderless\bin\Debug\net8.0-windows\Borderless.exe
+C:\Users\Alex\Desktop\Maya\Borderless\bin\Debug\net8.0-windows\Borderless.deps.json
+C:\Users\Alex\Desktop\Maya\Borderless\bin\Debug\net8.0-windows\Borderless.runtimeconfig.json
+C:\Users\Alex\Desktop\Maya\Borderless\bin\Debug\net8.0-windows\Borderless.dll
+C:\Users\Alex\Desktop\Maya\Borderless\bin\Debug\net8.0-windows\Borderless.pdb
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.black_canvas.resources
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.MainWindow.resources
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.dll
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\refint\Borderless.dll
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.pdb
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\Borderless.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Maya\Borderless\obj\Debug\net8.0-windows\ref\Borderless.dll
